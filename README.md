@@ -7,7 +7,7 @@
 <body>
     <pre style="font-family: Arial, Helvetica, sans-serif;">Motivated product marketer, efficient in promoting product, ideas and services. Successfully increased sales and elevated company profit
 I am eager to work in a competitive environment where i can gain the necessary experience to contribute to the growth and development of the 
-of the organisation by adhering to its vision and mission statement. 
+of the organisation by adhering to its vision and mission statement. \
     </pre> 
 <hr>
     <h2>EXPERIENCE</h2>
